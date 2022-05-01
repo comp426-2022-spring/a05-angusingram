@@ -21,7 +21,7 @@
     "coinserver",
     "API"
   ],
-  "author": "YOU",
+  "author": "Angus Ingram",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a05-johnmar3/issues"
@@ -29,6 +29,8 @@
   "homepage": "https://github.com/comp426-2022-spring/a05-johnmar3#readme",
   "dependencies": {
     "better-sqlite3": "^7.5.1",
+    "browsersync": "^0.0.1-security",
+    "cors": "^2.8.5",
     "express": "^4.17.3",
     "minimist": "^1.2.6",
     "morgan": "^1.10.0",
